@@ -1,1 +1,20 @@
- 
+I went through the git lab tutorial on 10/15/2021
+September 2021
+1. [master e432dc8] Created docs/status.txt to hold the result of git status
+ 1 file changed, 5 insertions(+)
+ create mode 100644 docsstatus.txt
+2. 14, git log
+3. I modified it on on  Date:   Fri Oct 15 17:31:35 2021 -0500, but someone else created it on  
+Date:   Wed Sep 25 18:33:08 2019 -0400
+4. Branches are cheap and easy to create, and also allow for a streamlined process of editing
+5. git log shows the evolution of project files, status shows what could be added before a commit would
+make sense to use
+6. $ git log --follow Vehicle.h
+7. git log | grep file
+8. (I) Inheritance can be used is when you derive a class from another class, like using the class 
+strawberry extending to the class fruit. (II) Polymorphism is the idea of using different objects in the 
+same framework, in the instance of a derived class. This is like using the name Rectangle in the place ofshape, since it is a shape. (III) Encapsulation, as the name implies, is like wrapping the code that will
+work on data together with the data.
+9. The main difference between the two is the direct contact between developers and the highest level,
+with Dictator and Luitenants having a middle man between the developers and highest level. 
+10. The dictator would have less direct contacts with as many people, as the luitenants can direct workflow to the dictator as sees fit.
